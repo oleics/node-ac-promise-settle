@@ -1,0 +1,8 @@
+{
+  "name": "ac-promise-settle",
+  "description": "Wait for an array of promises to resolve or reject.",
+  "version": "1.0.0",
+  "author": "Oliver Leics <oliver.leics@gmail.com>",
+  "license": "MIT",
+  "repository": "oleics/node-ac-promise-settle"
+}
